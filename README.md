@@ -17,23 +17,23 @@ Programação em **`C`** (minha linguagem favorita), **`Python`** e, às vezes, 
 Uso **Linux** diariamente há quase 1 ano. Atualmente utilizando **Arch Linux com KDE Plasma**.  
 Acredito fortemente na filosofia open source e liberdade de software.
 
-### Atualmente estou focado em:
+## Atualmente estou focado em:
 
-- Proteção avançada de servidores (firewall, honeypots, redes isoladas)
+### - Proteção avançada de servidores (firewall, honeypots, redes isoladas)
 
-- Prevenção contra phishing e ataques de ransomware
+### - Prevenção contra phishing e ataques de ransomware
 
 ---
 
-### Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
-**Principais:**
+## **Principais:**
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> **C** — Básico/Intermediário (estudando ativamente)
+### - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> **C** — Básico/Intermediário (estudando ativamente)
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> **Python** — Básico (uso principalmente para automação)
+### - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> **Python** — Básico (uso principalmente para automação)
 
-- **Shell Script / Bash** — Avançado
+### - **Shell Script / Bash** — Avançado
 
 ---
 

@@ -7,11 +7,11 @@
 
 ### Sobre mim
 
-- **Foco principal**: Segurança Ofensiva e Defensiva, Reverse Engineering e Exploit Development.
+- <img src="https://em-content.zobj.net/source/twitter/376/bug_1f41b.png" width="38" height="38"/> **Foco principal**: Segurança Ofensiva e Defensiva, Reverse Engineering e Exploit Development.
 
-- **Paixão**: Programação em **C** (minha linguagem favorita), **Python** e, às vezes, frito meu cérebro com **Assembly x86_64**.
+- 🖥️☠️**Paixão**: Programação em **`C**` (minha linguagem favorita), `**Python**` e, às vezes, frito meu cérebro com `Assembly x86_64`.
 
-- **Sistema Operacional**: Uso **Linux** diariamente há quase 1 ano. Atualmente utilizando **Arch Linux com KDE Plasma**.   
+- 🐧 **Sistema Operacional**: Uso **Linux** diariamente há quase 1 ano. Atualmente utilizando **Arch Linux com KDE Plasma**.   
   Acredito fortemente na filosofia open source e liberdade de software.
 
 Atualmente estou focado em:

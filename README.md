@@ -47,16 +47,8 @@ Atualmente estou focado em:
 
 ### Próximos Passos
 
-- Aprofundar meus conhecimentos em C e Assembly
-
-- Desenvolver mais ferramentas de segurança em C
+- Aprofundar meus conhecimentos em C Assembly e Python
 
 - Avançar nos estudos de pwn.college
 
-- Construir portfólio sólido para atuar como Red Team
-
----
-
-<div align="center">
-  <i>"Segurança não é um produto, é um processo contínuo."</i>
-</div>
+- Construir portfólio sólido para atuar com Cybersecurity

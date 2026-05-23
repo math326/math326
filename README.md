@@ -7,20 +7,20 @@
 
 ### Sobre mim
 
-### Foco principal
-<img src="https://raw.githubusercontent.com/math326/math326/main/img/exploitdb.webp" width="45" height="45"/> Segurança Ofensiva e Defensiva, Reverse Engineering e Exploit Development.
+### <img src="https://raw.githubusercontent.com/math326/math326/main/img/exploitdb.webp" width="45" height="45"/> Foco principal
+Segurança Ofensiva e Defensiva, Reverse Engineering e Exploit Development.
 
-### Paixão
-🖥☠ Programação em **`C`** (minha linguagem favorita), **`Python`** e, às vezes, frito meu cérebro com **`Assembly x86_64`**.
+### 🖥 ☠  Paixão
+Programação em **`C`** (minha linguagem favorita), **`Python`** e, às vezes, frito meu cérebro com **`Assembly x86_64`**.
 
-### Sistema Operacional
-🐧 Uso **Linux** diariamente há quase 1 ano. Atualmente utilizando **Arch Linux com KDE Plasma**.  
+### 🐧 Sistema Operacional
+Uso **Linux** diariamente há quase 1 ano. Atualmente utilizando **Arch Linux com KDE Plasma**.  
 Acredito fortemente na filosofia open source e liberdade de software.
 
 ### Atualmente estou focado em:
 
-- Criação de ferramentas para Linux
 - Proteção avançada de servidores (firewall, honeypots, redes isoladas)
+
 - Prevenção contra phishing e ataques de ransomware
 
 ---
@@ -37,21 +37,19 @@ Acredito fortemente na filosofia open source e liberdade de software.
 
 ---
 
-### Certificações
+## Certificações
 
-- TryHackMe - Cybersecurity
-- TryHackMe - Pentest
+### - TryHackMe - Cybersecurity
+
+### - TryHackMe - Pentest
 
 ---
 
 ### Próximos Passos
 
-- Aprofundar meus conhecimentos em C, Assembly e Python
-- Avançar nos estudos de pwn.college
-- Construir portfólio sólido para atuar com Cybersecurity
+### - Aprofundar meus conhecimentos em C, Assembly e Python
 
----
+### - Avançar nos estudos de pwn.college
 
-<div align="center">
-  <i>"Segurança não é um produto, é um processo contínuo."</i>
-</div>
+### - Construir portfólio sólido para atuar com Cybersecurity
+

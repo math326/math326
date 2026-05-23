@@ -7,14 +7,14 @@
 
 ### Sobre mim
 
-- <img src="https://raw.githubusercontent.com/math326/math326/main/img/exploitdb.webp" width="45" height="45"/> **Foco principal**: Segurança Ofensiva e Defensiva, Reverse Engineering e Exploit Development.
+- <img src="https://raw.githubusercontent.com/math326/math326/main/img/exploitdb.webp" width="45" height="45"/> # **Foco principal**: ### Segurança Ofensiva e Defensiva, Reverse Engineering e Exploit Development.
 
-- 🖥☠**Paixão**: Programação em **`C**` (minha linguagem favorita), `**Python**` e, às vezes, frito meu cérebro com `Assembly x86_64`.
+- 🖥☠ # **Paixão**: ### Programação em **`C**` (minha linguagem favorita), `**Python**` e, às vezes, frito meu cérebro com `Assembly x86_64`.
 
-- 🐧 **Sistema Operacional**: Uso **Linux** diariamente há quase 1 ano. Atualmente utilizando **Arch Linux com KDE Plasma**.    
+- 🐧# **Sistema Operacional**: ### Uso **Linux** diariamente há quase 1 ano. Atualmente utilizando **Arch Linux com KDE Plasma**.    
   Acredito fortemente na filosofia open source e liberdade de software.
 
-Atualmente estou focado em:
+## Atualmente estou focado em:
 
 - Criação de ferramentas para Linux
 
@@ -24,7 +24,7 @@ Atualmente estou focado em:
 
 ---
 
-### Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 **Principais:**
 

@@ -38,6 +38,7 @@ Acredito fortemente na filosofia open source e liberdade de software.
 ---
 
 ## Certificações
+### - TryHackMe - Pré-security
 
 ### - TryHackMe - Cybersecurity
 

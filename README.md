@@ -1,48 +1,19 @@
-<div align="center">
-  <h1>Hello World! <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></h1>
-  <h3>Matheus Bergamini | Future Cybersecurity Operator</h3>
-</div>
+### Hi there 👋 My name is Matheus Bergamini
+# 💫 About Me:
+☠️🖥️  Estudo sobre Cybersecurity voltada tanto para Red Team quanto Blue Team. Adoro Low Level e acho que a melhor forma de entender o Kernel Linux/Windows é desenvolvendo malwares e Exploits.<br><br>
+📚🧑🏼‍🎓 Tenho certificados do TryHackMe como pré-security, Cybersecurity-101, Penetration Tester.<br><br>
+🧠🛠️  Pretendo dedicar minha vida para ser um programador C, C++, Python e desenvolver soluções de segurança para servidores, como um firewall reforçado e sistemas anti ransomware para servidores.<br><br>
 
+
+# 🌐 Socials:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@matheusbergaminim)<br><br>
+
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 ---
+[![](https://visitcount.itsvg.in/api?id=IgorAvelino&icon=3&color=0)](https://visitcount.itsvg.in)
 
-### Sobre mim
-
-### Foco principal
-Cybersecurity voltado para Red Team, Blue Team e binary exploitation.
-
-### 🖥 ☠  Paixão
-Programação em **`C`** (minha linguagem favorita), **`Python`** e, às vezes, frito meu cérebro com **`Assembly x86_64 syntax Intel`**.
-
-### 🐧 Sistema Operacional
-Uso **Linux** diariamente há quase 1 ano. Atualmente utilizando **Arch Linux com KDE Plasma**.  
-Acredito fortemente na filosofia open source e liberdade de software.
-
-## Atualmente estou focado em:
-
-### - Proteção avançada de servidores (firewall, honeypots, redes isoladas)
-
-### - Prevenção contra phishing e ataques de ransomware
-
----
-
-## Linguagens e Tecnologias
-
-## **Principais:**
-
-### - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> **C** — Básico/Intermediário (estudando ativamente)
-
-### - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> **Python** — Básico (uso principalmente para automação)
-
-### - **Shell Script / Bash** — Avançado
-
----
-
-## Certificações
-### - TryHackMe - Pré-security
-
-### - TryHackMe - Cybersecurity
-
-### - TryHackMe - Pentest
-
----
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

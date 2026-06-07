@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Matheus Bergamini
 # 💫 About Me:
-☠️🖥️  Estudo sobre Cybersecurity voltada tanto para Red Team quanto Blue Team. Adoro Low Level e acho que a melhor forma de entender o Kernel Linux/Windows é desenvolvendo malwares e Exploits e fazendo chamadas de sistema.<br><br>
+☠️🖥️  Estudo sobre Cybersecurity voltada tanto para Red Team quanto Blue Team. Adoro Low Level e acho que a melhor forma de entender o Kernel Linux/Windows é desenvolvendo Malwares e Exploits e fazendo chamadas de sistema(syscall) com Assembly.<br><br>
 📚🧑🏼‍🎓 Tenho certificados do [TryHackMe](https://tryhackme.com/p/matheusbergaminim) como pré-security, Cybersecurity-101, Penetration Tester, e já estudei Assembly x86_64 em [pwn.college](https://pwn.college/hacker/166102).<br><br>
 🧠🛠️  Pretendo dedicar minha vida para ser um programador C, C++, Python e atuar na area de CyberSecurity criando soluções de segurança para servidores e redes como sistemas anti ransomware e firewall mais reforçado.<br><br>
 

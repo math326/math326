@@ -7,11 +7,11 @@
 
 ### Sobre mim
 
-### <img src="https://raw.githubusercontent.com/math326/math326/main/img/exploitdb.webp" width="45" height="45"/> Foco principal
-Segurança Ofensiva e Defensiva, Reverse Engineering e Exploit Development.
+### Foco principal
+Cybersecurity voltado para Red Team, Blue Team e binary exploitation.
 
 ### 🖥 ☠  Paixão
-Programação em **`C`** (minha linguagem favorita), **`Python`** e, às vezes, frito meu cérebro com **`Assembly x86_64`**.
+Programação em **`C`** (minha linguagem favorita), **`Python`** e, às vezes, frito meu cérebro com **`Assembly x86_64 syntax Intel`**.
 
 ### 🐧 Sistema Operacional
 Uso **Linux** diariamente há quase 1 ano. Atualmente utilizando **Arch Linux com KDE Plasma**.  
@@ -45,12 +45,4 @@ Acredito fortemente na filosofia open source e liberdade de software.
 ### - TryHackMe - Pentest
 
 ---
-
-### Próximos Passos
-
-### - Aprofundar meus conhecimentos em C, Assembly e Python
-
-### - Avançar nos estudos de pwn.college
-
-### - Construir portfólio sólido para atuar com Cybersecurity
 

@@ -31,4 +31,4 @@ Profissional focado em Segurança da Informação, com atuação dividida entre 
 
 📫 **Contact & Links:**
 - GitHub: [math326](https://github.com/math326)
-- LinkedIn: *(adicione seu link aqui)*
+- LinkedIn: [Matheus](https://www.linkedin.com/in/matheus-bergamini-165543362?utm_source=share_via&utm_content=profile&utm_medium=member_android)
